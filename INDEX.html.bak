@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<meta charset="iso-8859-1">
+		<meta name="description" content="PATUKITOS.SV">
+		<meta name="keywords" content="HTML5, CSS3, JavaScript">
+		<title>PATUKITOS SV</title>
+		<link rel="stylesheet" type="text/css" href="misestilos.css">
+		<link rel="stylesheet" type="text/css" href="menu.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+		<style type="text/css">
+			body
+				{
+				background-image:
+				url('imagenes/fondo.jpg')
+			}
+		</style>
+	</head>
+	<body>
+		<div id="agrupar">
+		<header  id="cabecera">
+			<img src="imagenes/Moda infantil copia.jpg" width="955" height="300" alt="LOGO" align="center">
+		</header>
+		<div id="header">
+			<nav id="menu">
+				      <ul class="nav">
+				      	<li><a href="INDEX.html" target="_self"><p id="parrafos">Inicio<p/></a>
+					  <li><a href="bebes.html" target="_self"><p id="parrafos">Bebes</p></a>
+					  <ul>
+							<li><a href="beniños.html" target="_self"><p id="parrafos">Niños</p></a></li>
+							<li><a href="beniñas.html" target="_self"><p id="parrafos">Niñas</p></a></li>
+
+						</ul>
+					</li>
+					<li><a href="niños.html" target="_self"><p id="parrafos">Niños (2-4 años)</p></a>
+						<ul>
+							<li><a href="masculino.html" target="_self"><p id="parrafos">Niños</p></a></li>
+							<li><a href="femenino.html" target="_self"><p id="parrafos">Niñas</p></a></li>
+						</ul>
+					</li>
+					<li><a href="mayores.html" target="_self"><p id="parrafos">Niños (5-9 años)</p></a>
+						<ul>
+							<li><a href="maniño.html" target="_self"><p id="parrafos">Niños</p></a></li>
+							<li><a href="maniña.html" target="_self"><p id="parrafos">Niñas</p></a></li>
+						</ul>
+					</li>
+				<li><a href="conocenos.html" target="_self"><p id="parrafos">Informaci&oacute;n Patukitos</p></a></li>
+				</ul>
+			</nav>
+		</div>
+		<section id= "seccion">
+
+
+
+			
+		<article>
+		<header> 
+		<hgroup>  
+			
+		<h1><font color="#996600" ><p id="parra1">Bebes</p></font></h1><br>
+		
+		<a href="beniños.html">
+			<img src="imagenes/bebes.jpg" width="300px" align="center">
+		</a>
+
+		<a href="beniñas.html">
+			<img src="imagenes/bebeniña.png" width="300px" align="center">
+		</a><br><br>
+		<br>
+		
+		<h1><font color="#996600" ><p id="parra1">Niños/as (2 a 5 años)</p></font></h1><br>
+		
+		<a href="masculino.html">
+			
+			<img src="imagenes/toddler.jpg" width="300px" align="center">
+		</a>
+		<a href="femenino.html">
+			
+			<img src="imagenes/toddlerniña.jpg" width="300px" align="center">
+		</a><br><br>
+		<br>
+		<h1><font color="#996600" ><p id="parra1">Niños/as (5 a 9 años)</p></font></h1><br>
+		
+		<a href="maniño.html">
+			
+			<img src="imagenes/niño.jpg" width="300px" align="center">
+		</a>
+		<a href="maniña.html">
+			
+			<img src="imagenes/niña (2).jpg" width="300px" align="center">
+		</a>
+
+	    </section>
+		
+		<aside id="columna">
+			<h1> cnjjn</h1>
+		</aside>
+
+		<footer id="pie">
+			PATUKITOS. SV
+		</footer>
+
+	</div>
+	</body>
+</html>
